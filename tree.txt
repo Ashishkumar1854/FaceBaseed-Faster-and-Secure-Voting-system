@@ -1,0 +1,61 @@
+voter-verification-system/
+├── backend/
+│   ├── app.js
+│   ├── config/
+│   ├── controllers/
+│   ├── database/
+│   ├── middleware/
+│   ├── models/
+│   ├── node_modules/
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── routes/
+│   ├── server.js
+│   └── uploads/
+├── blockchain/
+├── face-recognition/
+│   ├── api.py
+│   ├── captured_image.jpg
+│   ├── detector.py
+│   ├── encode_known_faces.py
+│   ├── encodings.pkl
+│   ├── face_detection.py
+│   ├── face_match.py
+│   ├── model/
+│   ├── Resources/
+│   ├── requirements.txt
+│   ├── test.jpg
+│   ├── utils/
+│   ├── myenv/
+│   └── myenv310/
+├── frontend/
+│   ├── node_modules/
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── postcss.config.js
+│   ├── public/
+│   ├── README.md
+│   ├── src/
+│   │   ├── api/
+│   │   ├── assets/
+│   │   ├── components/
+│   │   ├── index.css
+│   │   ├── index.js
+│   │   ├── App.css
+│   │   ├── App.js
+│   │   ├── App.test.js
+│   │   ├── pages/
+│   │   │   ├── FaceAuth.jsx
+│   │   │   ├── Home.jsx
+│   │   │   ├── ResultsPage.jsx
+│   │   │   ├── UserDetailsPage.jsx
+│   │   │   ├── VerifiedUser.js
+│   │   │   ├── VotePage.jsx
+│   │   │   └── VoteSuccess.jsx
+│   │   ├── reportWebVitals.js
+│   │   └── setupTests.js
+│   └── tailwind.config.js
+├── JavaScript/
+├── package.json
+├── README.md
+└── Resources/
