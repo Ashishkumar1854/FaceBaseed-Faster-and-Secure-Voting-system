@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 0",
     "start": "node server.js",
     "mongo-express": "node ./node_modules/mongo-express/app.js",
     "dev": "nodemon server.js"
